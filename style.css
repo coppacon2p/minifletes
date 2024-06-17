@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box !important;
+}
+
+h1 {
+	font-family: Alfa Slab One !important;
+	font-size: 75px !important;
+	font-weight: 700 !important;
+	color: rgb(243, 247, 13) !important;
+}
+
+.logo {
+	border-radius: 45%;
+	height: 40px;
+	border: 1px yellow !important;
+}
+
+.fondo {
+	max-height: 450px !important;
+}
+
+.nav-item a:hover {
+	border-bottom: 1px yellow !important;
+}
+
+.footer {
+	background-color: yellow;
+	height: 50px !important;
+}
+
+.footer li {
+	list-style-type: none !important;
+}
